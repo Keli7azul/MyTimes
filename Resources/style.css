@@ -66,10 +66,50 @@ header nav {
   margin-left: 20px;
 }
 
-.fall-cancelled.image-content {
+.fall-cancelled .image-content {
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-2.png");
+  width: 630px;
+  margin-top: 0;
+  text-align: left;
+  font-size: 40px;
 }
 
-.pop-culture.image-content {
+.fall-cancelled .image-content span {
+  margin-left: 20px;
+}
+
+.pop-culture .image-content {
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-3.png");
+  width: 630px;
+  margin-top: 0;
+  text-align: left;
+  font-size: 40px;
+}
+
+.pop-culture .image-content span {
+  margin-left: 20px;
+}
+
+.cat .image-content {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-1.png");
+  width: 630px;
+  margin-top: 0;
+  text-align: left;
+  font-size: 40px;
+}
+
+.cat .image-content span {
+  margin-left: 20px;
+}
+
+.column.large {
+  width: 630px;
+}
+
+.column.medium {
+  width: 300px;
+}
+
+.column.small {
+  width: 240px;
 }
